@@ -1,12 +1,11 @@
 # Java  Stopwatch
-### System Design :
-![STOPWATCH](https://github.com/dhiraj1008/Stop-watch/assets/94028619/e44131c1-6172-4dbe-be8f-94ef8238348d)
-### Visulas :
-https://github.com/dhiraj1008/Stop-watch/assets/94028619/6669afca-4825-49a9-ac5b-15471a9085aa
-
-
+<img src="https://github.com/dhiraj1008/Stop-watch/assets/94028619/66e24122-1873-470b-a5e0-1385b12824d5" width="650" height="330">
 
 > This is a simple stopwatch program written in Java with a graphical user interface (GUI). It allows you to start, stop, and reset the timer using buttons.
+
+
+### System Design :
+<img src="https://github.com/dhiraj1008/Stop-watch/assets/94028619/e44131c1-6172-4dbe-be8f-94ef8238348d" width="650" height="250">
 
 ### Features
 * Start, stop, and reset functionality

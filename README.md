@@ -1,7 +1,8 @@
 # Java  Stopwatch
 ### System Design :
 ![STOPWATCH](https://github.com/dhiraj1008/Stop-watch/assets/94028619/e44131c1-6172-4dbe-be8f-94ef8238348d)
-### Visuals :
+### Visulas :
+https://github.com/dhiraj1008/Stop-watch/assets/94028619/6669afca-4825-49a9-ac5b-15471a9085aa
 
 
 
